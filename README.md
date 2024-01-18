@@ -1,4 +1,5 @@
 # Mortgage-Lending-Decision
+<img width="968" alt="image" src="https://github.com/Amrapali03/Mortgage-Lending-Decision/assets/114306627/97e98add-3173-4c9d-9c44-3ed3c7fb77a0">
 
 
 ## Research question:
