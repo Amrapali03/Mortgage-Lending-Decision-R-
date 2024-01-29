@@ -1,4 +1,6 @@
 # Mortgage-Lending-Decision
+Conducted Logit and Probit Regression analysis to examine race/ethnicity discrimination in mortgage lending using Boston Home Mortgage Disclosure Act (HMDA) data. Used R for data cleansing, and analysis of summary statistics, correlation matrix, odds ratio, marginal probability, log-likelihood, and chi-square values to predict discrimination on mortgage loan approval rates.
+
 <img width="968" alt="image" src="https://github.com/Amrapali03/Mortgage-Lending-Decision/assets/114306627/97e98add-3173-4c9d-9c44-3ed3c7fb77a0">
 
 
